@@ -1,0 +1,23 @@
+<!Doctype html>
+  <html>
+    <body>
+        <head>
+  <meta name="robots" content="noindex, nofollow">
+  <title>Prueba lista</title>
+
+  <h1>PRIMERA PRUEBA</h1>
+  <h4>LISTA DE LA COMPRA</h4>
+  <img> src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFCbf2t9lHPlmhqFF5300HKR-d4OO7-qA9ww&s"
+  width="300"
+  height="300"
+
+  <ul>
+    <li>Leche</li>
+    <li>Huevos</li>
+    <li>Carne</li>
+    <li>Pan</li>
+  </ul>
+    <button>Hecho</button>
+    </body>
+  </html>
+      
